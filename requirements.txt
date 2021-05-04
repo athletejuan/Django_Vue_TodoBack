@@ -30,7 +30,7 @@ django-imagekit==4.0.2
 django-js-asset==1.2.2
 django-rest-auth==0.9.5
 django-wysiwyg==0.8.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 docker==4.2.1
 docker-compose==1.25.5
